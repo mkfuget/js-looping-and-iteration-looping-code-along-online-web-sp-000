@@ -6,4 +6,5 @@ function writeCards(array, event)
   {
     out.push("Thank you, ${array[i]}, for the wonderful ${event} gift!")
   }
+  return out
 }
