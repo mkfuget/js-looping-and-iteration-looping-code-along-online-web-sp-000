@@ -8,3 +8,10 @@ function writeCards(array, event)
   }
   return out
 }
+function countDown(num)
+{
+  for(let = num, i--, i>= 0)
+  {
+    console.log(i)
+  }
+}
